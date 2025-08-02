@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    color: blueviolet;
+}
+#menu{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 95px;
+    font-weight: 850;
+    color: aquamarine;
+}
+.subtitulo{
+    font-family: "Fascinate", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  border: 17px #12303d solid;
+  width: 200px;
+}
+#lista1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-style: oblique;
+    border: 10px #201731 dotted;
+    width: 300px;
+}
+#lista2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: initial;
+    border: 15px #25375a dashed;
+    width: 1500px
+}
+#frase{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    font-style: unset;
+    border: 15px  #52497d double;
+    width: 400px;
+}
+#imagen1{
+    width: 40%;
+    border: 25px #232538 groove;
+}
+#imagen2{
+    width: 30%;
+    border: 20px #12364e inset;
+}
+header{
+    background-color:#78767b;
+}
+main{
+    background-color:#78767b;
+}
+footer{
+    background-color: #78767b;
+}
+.redes{
+    width: 200px;
+}
